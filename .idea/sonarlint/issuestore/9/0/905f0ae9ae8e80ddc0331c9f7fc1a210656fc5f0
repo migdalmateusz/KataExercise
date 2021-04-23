@@ -1,0 +1,8 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆåå“úÿÿÿÿ8Ÿô€çˆ/
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ş¢¼8Ÿô€çˆ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñºÅ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(É¼ÙÆúÿÿÿÿ8òÛÁäˆ/
