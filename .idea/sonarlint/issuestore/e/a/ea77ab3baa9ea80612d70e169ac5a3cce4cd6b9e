@@ -1,9 +1,11 @@
 
-\
-java:S1118":Add a private constructor to hide the implicit public one.(²òâàúÿÿÿÿ8ÂıÉ²‹/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¸¦Ğ
 O
 java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8äü³‹/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¸¦Ğ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(²òâàúÿÿÿÿ8ÂıÉ²‹/
+Q
+java:S6212"/Declare this local variable with "var" instead.(®ÀĞˆüÿÿÿÿ8ÌÕüñ/
 C
 java:S1168
 "&Return an empty array instead of null.(­êóÄ8Ş—ª´‹/

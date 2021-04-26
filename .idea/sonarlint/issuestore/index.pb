@@ -1,6 +1,4 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 R
 "src/sevenKYU/Exc9/FindOutlier.java,2\b\2bf8824931b8ce1503c50f99e7302f0e55f93088
 N
@@ -21,8 +19,6 @@ W
 'src/fiveKYU/Exc1/HumanReadableTime.java,b\7\b735924fca6cfdd0b15c46138c73bb8e0dfbe0ea
 S
 #src/fiveKYU/Exc2/LoopInspector.java,7\6\766fa67ba48038a48e52f65737677cf93913caef
-R
-"src/fiveKYU/Exc3/PerfectPower.java,e\a\ea77ab3baa9ea80612d70e169ac5a3cce4cd6b9e
 m
 =src/fiveKYU/designpaterns/abstractfactory/WindowsFactory.java,9\5\95458f0b58c6dcacccf63884cee7d7cb9ac710a2
 j
@@ -75,3 +71,13 @@ p
 @src/fiveKYU/designpaterns/adapter/adapters/SquarePegAdapter.java,5\6\5635886384508b05721404e4d4e2e30158b53c22
 P
  src/fiveKYU/Exc4/ConwayLife.java,c\1\c1d6f95897284936dc018bdacbc1779249f7aeea
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+R
+"src/fiveKYU/Exc3/PerfectPower.java,e\a\ea77ab3baa9ea80612d70e169ac5a3cce4cd6b9e
+K
+src/fiveKYU/ExcCG/Ecx1.java,6\a\6abbcadd3ace939aeb7d6cd0548cebf6c39f1ebe
+K
+src/fiveKYU/ExcCG/Exc2.java,3\d\3d17c78d2584a13c00443358d7d0f4b9c14fd77c
+M
+src/fiveKYU/ExcCG/MainCG.java,3\1\31dec1bbb1a726178c894f663242c4165294ab65
